@@ -13,7 +13,7 @@ import de.greenrobot.performance.common.BuildConfig;
  */
 public abstract class BasePerfTestCase extends ApplicationTestCase<Application> {
 
-    protected static final int RUNS = 8;
+    protected static final int RUNS = 3;
     protected final Tools tools;
 
     public BasePerfTestCase() {

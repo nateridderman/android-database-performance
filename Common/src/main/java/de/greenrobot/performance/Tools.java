@@ -7,8 +7,8 @@ import android.util.Log;
  */
 public class Tools {
 
-    public static final int DEFAULT_BATCH_SIZE = 10000;
-    public static final int DEFAULT_QUERY_COUNT = 1000;
+    public static final int DEFAULT_BATCH_SIZE = 5000;
+    public static final int DEFAULT_QUERY_COUNT = 500;
 
     private final String logTag;
     private long start;
